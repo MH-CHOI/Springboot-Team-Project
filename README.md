@@ -21,7 +21,7 @@ acontainer 로고
 ### 목적
 ### 기대효과
 
-# ⚙️Stacks
+# ⚙️ Stacks
 ### Environment
 ### Tool
 ### Back-end
